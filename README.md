@@ -1,4 +1,4 @@
-On the Nature of Real and Perceived Bias in the Mainstream Media
+# On the Nature of Real and Perceived Bias in the Mainstream Media
 
 Authors : Erick Elejalde, Leo Ferres and Eelco Herder
 
